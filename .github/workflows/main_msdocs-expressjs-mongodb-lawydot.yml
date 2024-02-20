@@ -59,4 +59,4 @@ jobs:
           app-name: 'msdocs-expressjs-mongodb-Lawydot'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73B9861D0ADC499081630E619DAD59E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_541A85FF75F34F808786CA726C0A8729 }}
